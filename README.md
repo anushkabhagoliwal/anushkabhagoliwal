@@ -24,7 +24,7 @@
 
 📝 I actively post on [LinkedIn](https://linkedin.com/in/anushkabhagoliwal)
 
-👀 Ask me about React, NextJS, NodeJS, and APIs
+👀 Ask me about React, Java, IoT, and API
 
 📫You can reach me at anushkabhagoliwal@gmail.com
 
